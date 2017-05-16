@@ -2,6 +2,6 @@
 *This is in italics*
     this is code
 
-["click here"](www.google.com)
+[click here to open Google please](www.google.com)
 
 !["Alternative text"](gps1.png)
